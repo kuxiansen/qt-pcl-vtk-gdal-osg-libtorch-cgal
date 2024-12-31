@@ -1,2 +1,2 @@
 # 一个点云数据处理可视化软件
-包含了qt-pcl-vtk-gdal-osg-libtorch-cgal等开源库
+包含了qt-pcl-vtk-gdal-osg-libtorch-cgal等开源库和相关算法以及交互操作，由于依赖库较为繁杂，只上传代码部分，程序部分为本地版本
